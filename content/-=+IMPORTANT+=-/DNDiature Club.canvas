@@ -19,7 +19,7 @@
 		{"id":"bbbe247584d4c6b1","type":"file","file":"Zimages/Map.png","x":-2822,"y":-466,"width":1412,"height":847},
 		{"id":"311298f934071f39","type":"file","file":"Zimages/Pasted image 20260816163447.png","x":-2822,"y":381,"width":1412,"height":1130},
 		{"id":"0863e7d6ef101460","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Sigillum Cincinno.md","x":263,"y":-27,"width":400,"height":400,"color":"#006eff"},
-		{"id":"0c3895706375fbc9","x":663,"y":-27,"width":400,"height":400,"color":"6","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Ali Sona.md"}
+		{"id":"0c3895706375fbc9","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Ali Sona.md","x":663,"y":-27,"width":400,"height":400,"color":"6"}
 	],
 	"edges":[
 		{"id":"91792f524f981078","fromNode":"195551042af6b0fb","fromSide":"top","toNode":"acd79f75497560bc","toSide":"bottom"},
