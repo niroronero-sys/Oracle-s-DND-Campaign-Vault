@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "Oracle's D&D Campaign Vault"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
- locale: "en-US"
+  analytics: null
+  locale: "en-US"
   baseUrl: "niroronero-sys.github.io/Oracle-s-DND-Campaign-Vault"
   ignorePatterns:
     - private
