@@ -1,0 +1,4 @@
+on:
+  push:
+    branches:
+      - v5   <-- THIS IS THE BRANCH LINE

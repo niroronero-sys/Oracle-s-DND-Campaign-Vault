@@ -6,8 +6,8 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
- baseUrl: niroronero-sys.github.io/Oracle-s-DND-Campaign-Vault
+ locale: "en-US"
+  baseUrl: "niroronero-sys.github.io/Oracle-s-DND-Campaign-Vault"
   ignorePatterns:
     - private
     - templates
