@@ -1,1 +1,0 @@
-Harpoon, cold, model.
