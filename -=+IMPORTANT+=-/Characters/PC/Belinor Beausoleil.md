@@ -1,14 +1,12 @@
 Human, 19, Neutral Good
 
-HP
-|80
 
 Con | 8
 Dex | 10
 Str | 8
 Int | 14
-Wis | 15
-Wlp | 8
+Wis | 20
+Wlp | 10
 Cha | 15
 
 
@@ -17,6 +15,7 @@ Cha | 15
 Obsidian dagger
 
 |==Inventory==
+Coin x192
 Elixir 
 Elixir 48% 
 Old map

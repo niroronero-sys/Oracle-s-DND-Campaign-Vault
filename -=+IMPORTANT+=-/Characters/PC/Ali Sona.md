@@ -1,7 +1,5 @@
 Sorcerer, Human, 25, True Neutral
 
-HP
-|100
 
 Con | 10
 Dex | 14
@@ -16,10 +14,11 @@ Steel gauntlets
 
 
 ==|Inventory==
+Coin x50
 Small oil painting
 
 ==|Skills==
-
+Pathway | PASSIVE
 
 ==|Description==
 Ali Sona/Mr Door wears a long velvet coat gown colored in deep midnight black and a capelet layered over the shoulders in blue and black; underneath all of that was a white blouse. Some of his clothing is loosened so he can move more freely. He wields gauntlets, which are a remnant of some of his powers in his pathway, now just a tool to amplify or use basic spells] 

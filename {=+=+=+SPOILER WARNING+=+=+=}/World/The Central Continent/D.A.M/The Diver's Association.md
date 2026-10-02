@@ -6,7 +6,7 @@ The Diver's Association is an extremely technologically advanced group of people
 They are understaffed and are constantly looking for new recruits
 
 They use a different currency here, they use Credits, a digital currency
-1 Credit = 20 coins
+1 Credit = 5 coins
 
 They produce over 60% of the entire world's electricity, not just the central continent. Though 40% of that electricity is used by the Diver's Association.  So only 20% make it out of the Diver's Association for the world to use, the thing is, the energy they produce is more efficient than any other energy source, 50 times more efficient than the energy produced from mana stones. 
 

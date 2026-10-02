@@ -1,14 +1,12 @@
 Fae clan member: Faerie, 543, Lawful Good
 
-HP
-| 80
 
 Con | 8
-Dex | 8
+Dex | 12
 Str | 8
-Int | 11
-Wis | 16
-Wlp | 8
+Int | 15
+Wis | 18
+Wlp | 18
 Cha | 15
 Fae | 19
 
@@ -18,6 +16,7 @@ Mysterious Ancient Staff
 
 
 ==|Inventory==
+Coins x190
 Shilling x4
 Books of old
 Ominous fragment

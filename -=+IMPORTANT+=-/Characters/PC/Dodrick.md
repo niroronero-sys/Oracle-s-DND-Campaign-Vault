@@ -1,16 +1,13 @@
 Wizard, Human, 24, Chaotic Neutral
 
 *Someone prayed for him to get a fine maiden*
-+
 
-HP
-|80
 
 Con | 8
-Dex | 8
+Dex | 12
 Str | 8
-Int | 7
-Wis | 15
+Int | 12
+Wis | 18
 Wlp | 10
 Cha | 10
 
@@ -23,7 +20,7 @@ Giant Wizard Hat
 
 
 |==Inventory==
-Coin x5
+Coin x100
 Shilling x139
 Shower Scroll
 Soap Scroll

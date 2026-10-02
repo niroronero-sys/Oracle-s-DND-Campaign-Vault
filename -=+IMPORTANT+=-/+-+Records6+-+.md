@@ -1,5 +1,6 @@
 |+ Session Start.
 
+{This is Session 7. Benchmarked.}
 — Research Facility.
 
 The reinforced steel door shuts in front of you all followed by a thunderous roar from above, then you hear furious slashing, maniacal laughing, and shotgun shelling. 
@@ -161,9 +162,9 @@ Gardahn turns around, you all hear a gun firing in the distance the second he tu
 
 North east from yourself.
 
-You take Tycho's revolver and as you shoot, the revolver jams.
+Gardahn take Tycho's revolver and as he shoots, the revolver jams.
 
-The bullet pierces through your head. Gardahn's body falls upon the floor, maybe teardrops in his eyes.
+The bullet pierces through his head. Gardahn's body falls upon the floor, maybe teardrops in his eyes.
 
 Vespire 
 "Didnt even mean to shoot him, he just caught me by surprise."

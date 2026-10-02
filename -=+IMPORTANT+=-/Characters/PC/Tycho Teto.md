@@ -1,7 +1,5 @@
 Gunslinger,  Biologically-enhanced Human,  31, Lawful Evil
 
-HP
-|140 
 
 Con | 14
 Dex | 15

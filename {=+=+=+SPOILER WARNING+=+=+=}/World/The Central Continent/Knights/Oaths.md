@@ -10,7 +10,7 @@ Lady to Knight Oath
 Dueler's Oath
 
 | An oath that mutually assures the two parties participating in combat know the consequences and weight a duel will bring.
-| The world will not recognize the duel unless this exact passage of words is said.
+| The world will not recognize the duel unless this exact passage of words is said by both parties.
 
 "Heed no voice but yours and mine. You and I are fully aware of the ramifications, whatever the intention, whatever the motive, this is an oath made in blood, for blood. Show me your courage, show me your will, show me your honor, then die on that hill."
 

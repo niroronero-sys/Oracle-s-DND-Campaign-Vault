@@ -1,13 +1,11 @@
 Mage,  Human,  15,  Neutral Good
 
-HP
-| 90
 
 Con | 9
 Dex | 8
 Str | 8
 Int | 9
-Wis | 14
+Wis | 16
 Wlp | 16
 Cha | 8
 
@@ -17,11 +15,11 @@ Cha | 8
 
 
 ==|Inventory==
-
+Stable Conduit
 
 
 ==|Skills==
-
+Locke
 
 
 ==|Description==
@@ -122,6 +120,8 @@ So say, for instance, Sigillum manipulates the kinetic energy of a falling anvil
 
 If casted on a person or any such being,
 he can temporarily inhibit the receiver from using their mana to channel into a spell, for again, 5 minutes at maximum, regardless of size. Really only used as a failsafe if the target is too large for Sigillum to use Locke.
+
+ The founders of the Cincinno family were in possession or an extremely large chunk of the World Tree. and they have made around 5 Conduits that channels into said chunk of the World Tree— and with that conduit: the Cincinno family is able to utilize moratorium of motion, effectively pausing time or movement for something.
 
 
 As for the two spells that he cannot cast, these are:

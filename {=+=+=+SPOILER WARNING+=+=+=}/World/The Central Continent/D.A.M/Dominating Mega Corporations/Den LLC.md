@@ -1,0 +1,1 @@
+Den Limited Liability Company, or more commonly known as Dency for short. They focus on industrial matters, cosmetics, fashion, and other such vanities. They own a large part of the fashion industry, their influence extends to Camelot.

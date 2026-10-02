@@ -32,3 +32,4 @@ The creature of the night sees the core on the knight's weapon and he grins.
 Bats spiral around the creature as he announces himself
 "I am Helix Adelaide Pandemonium, second heir to the Pandemonium family, I welcome your duel, Knight of the Sun."
 
+-+Tender was the Night+-
