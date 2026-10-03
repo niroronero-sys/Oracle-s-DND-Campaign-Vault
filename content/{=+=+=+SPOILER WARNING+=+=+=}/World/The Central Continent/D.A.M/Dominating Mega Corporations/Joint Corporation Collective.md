@@ -1,1 +1,0 @@
-More commonly known as "J Corp, J Collective, or JCC"

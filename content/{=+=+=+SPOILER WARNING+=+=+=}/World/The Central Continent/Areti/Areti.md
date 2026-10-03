@@ -1,3 +1,0 @@
-A bustling city-state with a deep love for vanity and the arts, beautiful marble buildings line the beige roads, tourism is one of its greatest economic factors; with tourism comes customers for the various arts and their artists within Areti, whether it be performance, paintings, or sculptures, Areti has got your needs.
-
-Once every five years: the citizens of Areti celebrate the "Gem Festival" to show their appreciation of the Aristocrats governing them.
