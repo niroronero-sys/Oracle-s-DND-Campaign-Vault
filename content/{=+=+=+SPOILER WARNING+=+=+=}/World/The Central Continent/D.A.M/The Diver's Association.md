@@ -1,7 +1,9 @@
 
 "We kill to make what is made to kill."
 
-The Diver's Association is an extremely technologically advanced group of people, their only goal being to contain the threats within the [[Deep Trench]]. 
+The Diver's Association used to be a normal city back in year 1000, until a mysterious man appeared and found out the energy potential of the creatures within the deep trench. He alone commanded and developed the Diver's Association from a normal city into a powerhouse within 20 years. Now 1020, despite being more advanced, it still lacks the post-scarcity that its known for these days- that is, until 3 mysterious people appeared and started further developing the technology within the span of 10 years, developing and maintaining everything that a paradise needs. 
+
+The Diver's Association is an extremely technologically corporation., their only goal being to contain the threats within the [[Deep Trench]]. 
 
 They are understaffed and are constantly looking for new recruits
 
@@ -27,52 +29,48 @@ The Research and Development Department.
 - Also in charge of producing and selling specialized pain-killers for divers to use.
 - Also in charge of developing, producing, and selling Sync-Suppression, these are mandatory for divers to take on the daily.
 
-The Gear Crafting Department
-- Filled with retired divers too old to fight, with their experience, they make the next generation of weapons, they are constantly innovating a tool to kill and capture sea demons. 
-
 The Retrievers/The Steam Knights Order
-- Made up of races who cant handle the electricity, they don suits that produce steam as an alternative for electricity. 
-- The steam from their suits burn and sear their skin, making almost every single one of them buy pain-killers just to do their job. 
+- Mostly made up of races who cant handle the electricity, they don suits that produce steam as an alternative for electricity. 
+- The steam from their suits are enough to sear their skin, so the R&D department developed a body-suit that will drastically reduce the effects of the steam.
 - They are mainly in-charge of capturing Sea Demons so the Logistics Department can produce electricity. 
 
 The Link-Breakers/The Counter-Currents
-- Made up of races who can handle the electricity, they use gear that produce an electrical field around them, though they are also being constantly being electrocuted, they have to endure.
+- Mostly made up of races who can handle the electricity, they use gear that produce an electrical field around them, though they are also being constantly being electrocuted, they have to endure.
 - The only thing that can deny a Sea Demon's adaptation is if they are killed fast enough, The Sea Demons only need one miniscule part of them to contain information, so they have to completely erase the Sea Demons that The Retrievers cant capture.
 -
 The Gear they used is bio-technical weapons made from the very things they kill, Sea Demons. those SDs produce electricity for their equipment to use, their equipment always has a core chamber to store SD cores. 
 
 They also choose to replace vital organs with Bio-technically enhanced ones, and those are also made from Sea Demons
 
-They don't have time for hospitals, so they can only use ultra-fast regeneration agents that are also made from Sea Demons, which is why its mandatory for them to buy and use Syn-Suppressors. All of those parts, equipment, and healing all come from Sea Demons, they run the risk of syncing to the hivemind and becoming a SD themselves.
-
 An immediate execution is warranted the VERY INSTANT a diver is detected to have even a flicker brain frequency that's the same as the Sea Demons' Hivemind. The Diver's Association cant run the risk of the SDs learning and adapting to them. 
+
+The primary way of execution is via the Veteran Dolphin-class diver that is mandatory for every single diver group to have, they are the ones that have specialized weaponry that can decommission an infected diver.
 
 The execution order is even faster if they have organs made from/enhanced by SD cores, since the R&D department can forcefully shut those organs down remotely if they that flicker appears.
 
 The only thing that's standing between the world and Sea Demons is the Diver's Association, the moment the DA stops fighting is the moment the world will be swallowed by the constantly adapting and evolving threat of Sea Demons.
 
-The salary of a diver, especially those in the Link-Breaker or Retriever departments are extremely high, some become divers to live a life of luxury, some to send money to their families back home, even if they die, the DA will send a huge compensation to their bereaved families. The thing is, they are constantly fighting Sea Demons, almost never getting a moment of rest, the most they can get is 4 hours. 
+The salary of a diver, especially those in the Link-Breaker or Retriever departments are extremely high, some become divers to live a life of luxury, some to send money to their families back home, even if they die, the DA will send a huge compensation to their bereaved families. The thing is, they are constantly fighting Sea Demons, almost never getting a moment of rest, the most they can get is 4 hours whenever they're on duty.
+
+Though they only have to work 6 months in a year. But for Leviathan-class divers, they have to work the whole year, but they only have to fulfill a certain quota every week and then they have the option to not go to work after they're done with their quota.
 
 Different classes of divers.
 -
 Leviathan-class
 - Enough power to shake a country
-- Their gear can produce a 50m field of extremely high voltage electricity to prevent SDs from touching them, since a single touch is all a SD needs to analyze and then adapt, especially in the case of L-class divers where all of their gear incorporates an extremely potent High Frequency SD core. 
+- They all mostly work alone.
+- Their standard electronic gear can produce a 50m field of extremely high voltage electricity to prevent SDs from touching them, since a single touch is all a SD needs to analyze and then adapt, especially in the case of L-class divers where all of their gear incorporates an extremely potent High Frequency SD core. 
 - They are the face of the Diver's Association, being in propaganda for recruiting people. 
-- The only ones that can actually spend their high-salaries, they are only ever called in for checkpoint clearing or extreme emergencies.
 
 Whale-class
 - The main force that defends, endures, and captures the sea demons, most of the Retrievers are categorized as Whale-class.
-- They only get 12 days of FULL day-offs every year.
 - Their gear is meant to endure, extremely closed-off armor plating with a constant fluctuation of electricity or steam.
 
 Shark-class
 - The main force that attacks, most of the Link-breakers are categorized as Shark-class. 
-- They only get 12 days of FULL day-offs every year since SD execution happens more often that retrieving.
 - They gear is meant to be fast, although a little fragile, they have an extremely lethal force, their gear can constantly produce an extremely high-voltage field of 2 meters, not as high as the Leviathan-class' gears though.
 
 Dolphin-class
-- 40% of Diver casualties are from dolphin-class divers.
 - They serve as scouts to search for SDs or Checkpoints for the Main attack force to destroy.
 - They are the least in risk of syncing, their gear is meant to detect and analyze the terrain and Sea Demons, searching for frequencies that match the Hivemind, they search for the others to destroy.
 -

@@ -35,7 +35,7 @@ Light attunement | PASSIVE
 
 ==|Description==
 
-White hair, Ivory skin and white Irises and she’s 3 '4 tall with a nice personality being a kind, gentle, and pure fairy helping those who need her assistance. 
+White hair, Ivory skin and white Irises and she’s 1'4 feet tall with a nice personality being a kind, gentle, and pure fairy helping those who need her assistance. 
 She looks like a young beautiful maiden with fairy wings that makes her more special. 
 
 Backstory: When Ivory was a very young fairy, she lived with her clan peacefully but Ivory wanted to explore and meet new people and she was given permission to venture the world but in a condition that she must collect artifacts, anything that she found interesting and return to tell her clan about her experiences when she explored the world. 

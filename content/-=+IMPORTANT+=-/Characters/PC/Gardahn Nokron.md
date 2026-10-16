@@ -6,7 +6,7 @@ Dex | 9
 Str | 20
 Int | 15
 Wis | 14
-Wlp | 19
+Wlp | 20
 Cha | 12
 
 
@@ -24,7 +24,7 @@ Hairbrush
 Toothbrush
 Shampoo
 Hair coupons x5
-Hair perfume | Dragonbreath
+Hair perfume 
 Epipen | for nut allergies
 Nail clippers
 Mouth wash

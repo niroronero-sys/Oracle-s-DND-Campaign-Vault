@@ -4,10 +4,10 @@ Sorcerer, Human, 25, True Neutral
 Con | 10
 Dex | 14
 Str | 8
-Int | 19
+Int | 14
 Wis | 20
-Wlp | 18
-Cha | 20
+Wlp | 16
+Cha | 17
 
 ==|Equipment==
 Steel gauntlets

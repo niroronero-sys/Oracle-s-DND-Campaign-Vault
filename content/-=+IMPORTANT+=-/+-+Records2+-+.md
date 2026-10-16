@@ -31,7 +31,7 @@ Lord Strimune returns to his paperwork.
 
 Bovine walks out,  the knight following him/her.
 
-|+Session Start
+|+Session Start - 3
 
 Dodrick obtains both repulsion and pull gravity magic techniques.
 
@@ -216,7 +216,7 @@ Gardahn
 
 |-Session End
 
-|+Session Start
+|+Session Start - 4
 
 Teto
 "I'm too high for this. Someone has a pole, one has a magical book, theres 14 of them.

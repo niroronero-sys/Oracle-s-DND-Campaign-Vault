@@ -185,7 +185,7 @@ And one that Gardahn and Dodrick remembers. A figure who seems like hes low-born
 Gardahn spots him and remembers, its the guy who froze the werewolf.
 "Its Sigillum."
 
-Sigillum Cincinno looks at your party and smirks
+Sigillum Stanwyck looks at your party and smirks
 “Ah, I knew we’d meet again soon.”
 
 Though his high-pitched voice kills any aura he would've gained.
@@ -1078,7 +1078,7 @@ Belinor
 "ah ah, nope. I'm not gonna let that pass."
 
 Ivory
-"I.. I REVIDED YOU BY THE WAY! TWO TIMES!"
+"I.. I REVIVED YOU BY THE WAY! TWO TIMES!"
 
 Gardahn
 "...What you mean? What the hell are you talking about?"

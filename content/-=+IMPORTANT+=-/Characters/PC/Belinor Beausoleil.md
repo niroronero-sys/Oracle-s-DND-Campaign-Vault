@@ -7,7 +7,7 @@ Str | 8
 Int | 14
 Wis | 20
 Wlp | 10
-Cha | 15
+Cha | 19
 
 
 |==Equipment==

@@ -1,4 +1,4 @@
  "A bounty for the patient."
 -
 "Stolen Fate" |Gloves
-{What's yours is mine, what's mine is mine.
+{Stolen? I have never stolen, the world is mine and so is everything in it.

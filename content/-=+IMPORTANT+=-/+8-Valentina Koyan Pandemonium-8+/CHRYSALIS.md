@@ -1,4 +1,4 @@
-Clathrus archeri, or its common name: the Octopus Stinkhorn.
+Clathrus archeri, or its common name: the Devil's fingers.
 
 In an extremely rare event— or rather, under specific circumstances, a chrysalis is formed within the heart of the plant; within that chrysalis lies an embryo for a "vampire" 
 
@@ -19,6 +19,8 @@ She looks up at the waning crescent moon, its glow ingested by her iris.
 
 ---
 
-She strolls through the forest until she finds the light of the moon permeating the leaves westbound.
+She strolls through the Great Forest until she finds the light of the moon permeating the leaves westbound.
+
+It's a large open area surrounded by dense trees. A perfect place for a settlement, its been more than a millennia, she supposes that its time to have a permanent home somewhere.
 
 

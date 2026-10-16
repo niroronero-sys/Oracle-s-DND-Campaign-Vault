@@ -220,7 +220,7 @@ Gardahn
 
 — Far from the camp
 
-Sigilum Cincinno
+Sigilum Stanwyck
 "A howl... "
 
 — Back to the camp.
