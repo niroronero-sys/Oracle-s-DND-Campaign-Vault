@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"d2eba8f1c881c329","type":"file","file":"Zimages/Pasted image 20260411021314.png","x":-75,"y":438,"width":277,"height":399},
+		{"id":"0863e7d6ef101460","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Sigillum Stanwyck.md","x":263,"y":-27,"width":400,"height":400,"color":"5"},
+		{"id":"e41c11bfd2041c93","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Dodrick.md","x":-136,"y":-460,"width":400,"height":409,"color":"#165bfe"},
+		{"id":"0c3895706375fbc9","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Ali Sona.md","x":264,"y":-460,"width":400,"height":409,"color":"#9900ff"},
+		{"id":"415b624a7f569f1d","type":"file","file":"Zimages/Gardahn.png","x":-489,"y":-1056,"width":302,"height":537},
+		{"id":"ed0e6d48b256b054","type":"file","file":"Zimages/Doddenricken-NoColor.png","x":-136,"y":-997,"width":395,"height":478},
+		{"id":"728cd7ce5a1f00a3","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Lain Krosswood Stanwyck.md","x":664,"y":-460,"width":400,"height":409,"color":"#290000"},
+		{"id":"62665320b3559772","type":"file","file":"Zimages/Pasted image 20261002203823.png","x":664,"y":-910,"width":400,"height":391},
+		{"id":"171e7de8bcccbda8","type":"file","file":"Zimages/r3.png","x":-476,"y":437,"width":276,"height":400},
+		{"id":"345bc2ebb2b509a3","type":"file","file":"Zimages/Pasted image 20261002205136.png","x":313,"y":-958,"width":301,"height":400},
+		{"id":"30909837da8b59da","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Ivory Clearwater.md","x":-138,"y":-27,"width":400,"height":400,"color":"#00ff88"},
+		{"id":"acd79f75497560bc","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Belinor Beausoleil.md","x":-538,"y":-27,"width":400,"height":400,"color":"#000b5c"},
+		{"id":"dc4a8cc8e1ee0959","type":"file","file":"-=+IMPORTANT+=-/Characters/PC/Gardahn Nokron.md","x":-538,"y":-460,"width":387,"height":416,"color":"1"},
+		{"id":"a5d5e7c1b9db47cc","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records+-+.md","x":-1410,"y":-8049,"width":872,"height":879,"color":"#242bff"},
+		{"id":"3522e5156b1bac95","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records2+-+.md","x":-1410,"y":-7168,"width":872,"height":828,"color":"#242bff"},
+		{"id":"d3456b9193ae4652","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records3+-+.md","x":-1410,"y":-6349,"width":872,"height":837,"color":"#242bff"},
+		{"id":"222dee4a05cfb2ec","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records4+-+.md","x":-1410,"y":-5512,"width":872,"height":828,"color":"#242bff"},
+		{"id":"c33322c2d666f139","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records5+-+.md","x":-1410,"y":-4682,"width":872,"height":837,"color":"#242bff"},
+		{"id":"ba0d28cbace35e85","type":"text","text":"|+ Session Recap\n\n+ The party went ahead with the plan but encountered a paladin with a grudge against Dodrick, after the fight they had completed the mission to kill two Aristocrats from Areti who were in Soleil for a diplomatic visit\n+ The party and Clown got separated in the chaos\n+ Tycho Teto sensed something flaring in his head telling him to go somewhere\n+ He lead them to a research facility within a mountain and encountered an evil ai who took over Teto's mind\n+ With the help of Ivory, the AI's control over Tycho was dispelled.","x":-1410,"y":-3840,"width":872,"height":847,"color":"#242bff"},
+		{"id":"d27fe58a282f377d","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records6+-+.md","x":-1410,"y":-2996,"width":872,"height":847,"color":"#242bff"},
+		{"id":"e6230aaca0f4566f","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records7+-+.md","x":-1410,"y":-2149,"width":872,"height":850,"color":"#242bff"},
+		{"id":"43b384fc8690daa7","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records8+-+.md","x":-1410,"y":-1299,"width":872,"height":839,"color":"#242bff"},
+		{"id":"c139001fdf4c553f","type":"file","file":"-=+IMPORTANT+=-/Records/+-+Records9+-+.md","x":-1410,"y":-460,"width":872,"height":833,"color":"#242bff"}
+	],
+	"edges":[
+		{"id":"1498b5976fe590b1","fromNode":"d2eba8f1c881c329","fromSide":"top","toNode":"30909837da8b59da","toSide":"bottom"},
+		{"id":"2dcea20d9e1ecd84","fromNode":"415b624a7f569f1d","fromSide":"bottom","toNode":"dc4a8cc8e1ee0959","toSide":"top"},
+		{"id":"217a3ead908997cf","fromNode":"62665320b3559772","fromSide":"bottom","toNode":"728cd7ce5a1f00a3","toSide":"top"},
+		{"id":"aee77656943bbcba","fromNode":"ed0e6d48b256b054","fromSide":"bottom","toNode":"e41c11bfd2041c93","toSide":"top"},
+		{"id":"3d8c16b12a25536e","fromNode":"171e7de8bcccbda8","fromSide":"top","toNode":"acd79f75497560bc","toSide":"bottom"},
+		{"id":"c132edf8a835bfca","fromNode":"345bc2ebb2b509a3","fromSide":"bottom","toNode":"0c3895706375fbc9","toSide":"top"}
+	]
+}
