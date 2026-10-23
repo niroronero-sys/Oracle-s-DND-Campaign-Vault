@@ -23,6 +23,7 @@ Ominous fragment
 Magnifying glass
 Brush
 Batthorn
+Mysterious Amulet
 
 
 
