@@ -1,4 +1,4 @@
-Mage,  Human,  15,  Neutral Good
+Mage,  Human,  16,  Neutral Good
 
 
 Con | 9
@@ -19,7 +19,6 @@ Stable Conduit
 
 
 ==|Skills==
-Locke
 
 
 ==|Description==
@@ -27,6 +26,7 @@ Locke
 Sigillum is a relatively short, pale-skinned young boy. Short, straight black hair. Only 
 wears simple clothes, discarded rags or even sacks due to not being able to afford better 
 clothing.
+
 
 ==| Backstory==
 

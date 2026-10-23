@@ -1,5 +1,6 @@
 Offensive-support, Bio-enhanced Human, 23, Lawful Good.
 
+
 Con | 10
 Dex | 14
 Str | 15
@@ -8,10 +9,12 @@ Wis | 20
 Wlp | 18
 Cha | 20
 
+
 ==|Equipment==
 La Revenant Sabre
 King-Slayer model revolver
 Sol Invictus Greatsword
+
 
 ==|Inventory==
 Coin x237
@@ -24,6 +27,7 @@ Fountain Pen
 Ink bottle
 Cartridge
 
+
 ==|Skills==
 Soul Ignited | Passive
 Opening Eye | Passive
@@ -34,6 +38,7 @@ CHARGING
 HOLDFAST
 Impending Madness
 IT SEEKS ANSWERS
+
 
 ==|Backstory==
 

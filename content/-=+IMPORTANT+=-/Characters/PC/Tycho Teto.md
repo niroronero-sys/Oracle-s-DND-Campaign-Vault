@@ -16,7 +16,6 @@ Exo-skeleton
 
 
 |==Equipment==
-Twin Revolvers
 Short-Dagger
 SunSteel Greatsword
 

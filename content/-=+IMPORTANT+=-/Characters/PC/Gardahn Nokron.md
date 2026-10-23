@@ -16,6 +16,7 @@ Morningstar
 Dragonscale shield | lower
 BlackSteel Zweihander.
 
+
 |==Inventory==
 Coins x228
 Shillings x98
@@ -28,7 +29,7 @@ Hair perfume
 Epipen | for nut allergies
 Nail clippers
 Mouth wash
-
+Box of Candies (123x)
 
 
 |==Skills==

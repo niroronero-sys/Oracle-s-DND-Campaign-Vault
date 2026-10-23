@@ -17,7 +17,6 @@ Obsidian dagger
 |==Inventory==
 Coin x192
 Elixir 
-Elixir 48% 
 Old map
 Shillings x200
 1 whole of paper x5
@@ -26,6 +25,7 @@ Flashlight
 Lucky charm
 "The Eleventh Hour" 1TA scroll
 Life ring(-)
+"Candy" 
 
 
 |==Skills==
@@ -42,11 +42,8 @@ Height: 160 CM/ 5’3 feet
 
 Weight: 45kg
 
-  
-  
-  
 
-Backstory:
+==| Backstory==
 
 Belinor Beausoleil  was adopted at the age of 10 and raised where she would spend the rest of her childhood and teenagehood in the region of Provence, France. However, she later moved to an urban area to study her academics.
 

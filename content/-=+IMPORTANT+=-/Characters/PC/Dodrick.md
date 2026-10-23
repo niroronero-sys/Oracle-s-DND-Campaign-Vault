@@ -22,16 +22,16 @@ Giant Wizard Hat
 |==Inventory==
 Coin x100
 Shilling x139
+Basic Grimoire
+Emergency Exorcism Scroll
+Tachyon Scroll x1
 Shower Scroll
 Soap Scroll
 Shampoo Scroll
 Washing Dishes Scroll
 Clothe Washing Scroll
-Basic Grimoire
-Emergency Exorcism Scroll
-Tachyon Scroll x1
 Med-Wand
-Meteor scroll x1
+
 
 
 |==Skills==
@@ -39,11 +39,6 @@ Gravitational pull
 Repulsion
 Explosion
 Flame Control | PASSIVE
-
-
-
-
-
 
 
 |==Description==
