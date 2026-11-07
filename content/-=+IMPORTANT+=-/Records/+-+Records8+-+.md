@@ -77,10 +77,7 @@ Belinor laughs, manic eyes accompany it.
 Belinor sighs
 "Can I... go to the bathroom for a moment? Alone."
 
-Ali
-"I... ofcourse, I wouldn't have even suggested going to the bathroom with you."
-
-Ali holds his right arm with his right hand
+Ali holds his right arm with his left hand
 "I'll uh... be in our room if anyone needs me..."
 
 Ali goes upstairs back to the room.
@@ -581,6 +578,45 @@ Sigillum inspects further and sees engravings on the figure's armor, on its paul
 
 Dodrick
 "This guy... hes pretty big."
+
+|- In the room
+
+Ali, you hear three knocks on the door 
+
+You hear an eccentric voice beyond it 
+"Yo~ you there?"
+
+Ali Sona
+"Hello?"
+
+??? 
+"Ahh hey man, just wanted to check on you, I mean... how quickly Belinor alienated you like that must've got your mood in the gutter, can I come in?"
+
+Ali thought for a moment before he decides to just simply let whoever's on the other side in
+"You may come in...however I'm perfectly fine, I'm used to that sort of thing even at my home"
+
+The figure bursts through the door, the first thing you notice about the person is the 7-Stars badge on their shoulder. Ah, you realize it. It was the same person you met when you woke up in the dungeon : Periwinkle Hare.
+"Sweet! Sorry to intrude, got anything you want? I just gave your friends something sweet, I thought you might feel left out."
+
+Ali jolts momentarily before he sighed 
+"It's quite alright I'm trying to get used to these new lands you see"
+
+PeriHare stands in front of you, his hands seem to be hovering over something behind him.
+"Well... if you need anything, just ask me."
+
+He pulls out what seems to be a business card.
+"Conval, Periwinkle Hare, 7-Star Expediter."
+
+Ali takes the card, inspecting it for a while before keeping it
+"I used to do this type of taction back in my place... my, how much reality has changed, and now I'm on the receiving end. Thank you"
+
+Periwinkle Hare smiles, though you see through it as a simple courtesy-smile those business men do.
+"My pleasure."
+
+PeriHare leaves you alone in the room shortly after.
+
+
+|- Back downstairs
 
 Sigillum looks around the inn once again while Ivory freely explores the inn.
 

@@ -16,8 +16,8 @@ Obsidian dagger
 
 |==Inventory==
 Coin x192
-Elixir 
 Old map
+Elixir
 Shillings x200
 1 whole of paper x5
 Pen x2
@@ -49,7 +49,7 @@ Belinor Beausoleil  was adopted at the age of 10 and raised where she would spe
 
   
 
-She is studying in an academy where she’s currently pursuing her interest in Fashion. She is very well-known at the Academy as a dedicated, caring figure to all of her peers and professors. Especially, during her earliest years, she excelled in all of the subjects, and participated in competitions, always part of the Top 3 consistently. She was also reliable and just generally a great person to others and doesn’t have any scandals/horrid rumors about her. It was like the closest definition of a “perfectionist”. However, just like everyone else, she has her own secrets and flaws. 
+She was studying in an academy where she’s currently pursuing her interest in Fashion. She is very well-known at the Academy as a dedicated, caring figure to all of her peers and professors. Especially, during her earliest years, she excelled in all of the subjects, and participated in competitions, always part of the Top 3 consistently. She was also reliable and just generally a great person to others and doesn’t have any scandals/horrid rumors about her. It was like the closest definition of a “perfectionist”. However, just like everyone else, she has her own secrets and flaws. 
 
   
 

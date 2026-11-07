@@ -1,4 +1,4 @@
-|+Session Start - 5
+|+Session Start - 4
 
 The clown walks through the door and greets you lot. 
 "Are you guys about to go kill that necromancer? Dont kill it."

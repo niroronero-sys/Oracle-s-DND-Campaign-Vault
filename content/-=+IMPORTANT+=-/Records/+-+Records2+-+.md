@@ -216,7 +216,7 @@ Gardahn
 
 |-Session End
 
-|+Session Start - 4
+|+Session Start - 3
 
 Teto
 "I'm too high for this. Someone has a pole, one has a magical book, theres 14 of them.

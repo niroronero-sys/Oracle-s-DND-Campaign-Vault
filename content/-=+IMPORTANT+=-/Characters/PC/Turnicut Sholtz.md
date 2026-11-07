@@ -29,6 +29,7 @@ Iron helmet
 ==| Skills==
 Dwarf's Rage | PASSIVE
 Dwarf's Might | PASSIVE
+Monstrous Strength | PASSIVE
 Great Swing 
 Greater Swing
 Warrior of the Mind | PASSIVE

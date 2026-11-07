@@ -1,4 +1,4 @@
-Dragonborn,  Paladin,  Chaotic Good
+Dragonewt,  Paladin,  Chaotic Good
 
 
 Con | 15
@@ -44,12 +44,14 @@ Flametouch
 Bless
 Divine Smite
 Tail Swoop
-Knights Authority(Incomplete) | PASSIVE
+Knights Authority | PASSIVE
 
 
 |==Description==
 
 *Has a nut allergy, FATAL*
+
+*Is super angry at the Knight of Steam(They're never even met) for no reason.*
 
 Buff, red-toned, has the most luxurious hair ever
 

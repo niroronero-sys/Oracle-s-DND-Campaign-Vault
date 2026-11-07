@@ -1,4 +1,4 @@
-Valentina Koyan Pandemonium, she loves gatherings, formal or informal. She Just looks at everyone like they're ants, like they're weaker than her. Such pride is only allowed for the Progenitor of the Pandemonium family and Sangre (Blood hardening arts). (The Other Families, which I still havent named also made the rest of the Blood arts, like, Matanza, Yuhyeol, Xue, and Ryuketsu.
+Valentina Koyan Pandemonium, she loves gatherings, formal or informal. She Just looks at everyone like they're ants, like they're weaker than her. Such pride is only allowed for the Progenitor of the Pandemonium family and Sangre (Blood hardening arts). 
 
 The ways Vampires give birth to other vamps isnt the biting a virgin thing, no thats for feeding, and the virgin part is by preference. (Virgins taste more sweet while non-virgins have umami.)
 
@@ -15,5 +15,17 @@ She knows everything under her blood, thats a trait all Progenitors of Vampire F
 There are 9 Progenitors, the other 4 families are in pairs, 2 progenitor for each family,
 
 The only "good" memory that Valentina has is her memory of her fight with the Knight of The Waning Crescent Moon.
-> 1. Within that fight, as the fight both launches them both off of the cliff, the Knight of the Waning Crescent Moon was the only person that manages to break her exo-skeletal armor, fully exposing her eyes to the moonlight's shine that night for the first time in a decamillenium.
+Within that fight, as the fight both launches them both off of the cliff, the Knight of the Waning Crescent Moon was the only person that manages to break her exo-skeletal armor, fully exposing her eyes to the moonlight's shine that night for the first time in a decamillenium.
 
+
+---
+1st heir of the Pandemonium family is a lady named "Navene Mercury Pandemonium"
+    
+2nd heir of the Pandemonium family is a gentleman named "Helix Adelaide Pandemonium"
+    
+3rd heir of the Pandemonium family is a lady named "Avium Chlordane Pandemonium"
+    
+4th heir of the Pandemonium family is a gentleman named "Vludir Der Point Pandemonium"
+
+---
+- Information provided by House Pandemonium's head maid and personal confidante of Valentina Koyan Pandemonium, Information received by an Apostle of Acraspeda.
