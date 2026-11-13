@@ -784,7 +784,9 @@ Dodrick gets back to the inn and Distributes the spectator pass bracelets.
 
 {yes, Night of Knights is the one that allows lethal force. Eve of Knights does not.}
 
-They all rest and some of them wander around the city until the next day.
+They all rest and some of them wander around the district until the next day.
+
+Before sleeping, Dodrick feels an unnerving presence.
 
 |-SESSION END
 
