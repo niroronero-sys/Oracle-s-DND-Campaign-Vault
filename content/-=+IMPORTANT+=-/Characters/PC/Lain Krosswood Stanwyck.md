@@ -17,8 +17,10 @@ Sol Invictus Greatsword
 
 
 ==|Inventory==
-Coin x237
-Shilling x50
+Coin x195
+Shilling x10
+Eve of Knights Spectator pass Bracelet
+Night of Knights Spectator pass Bracelet
 Portable Canteen
 Candle Lamp around his waist
 Lighter

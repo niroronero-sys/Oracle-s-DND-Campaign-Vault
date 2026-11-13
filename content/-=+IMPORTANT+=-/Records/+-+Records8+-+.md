@@ -665,7 +665,7 @@ Ivory
 The stranger looks at the Faerie infront of him
 "hmmm."
 
-Ivory sees a glint of a 7-Star badge on the man's shoulder
+Ivory sees a glint of a 7-Star badge on the man's shoulder lined with black fur
 
 The Stranger smiles
 "Keep it."

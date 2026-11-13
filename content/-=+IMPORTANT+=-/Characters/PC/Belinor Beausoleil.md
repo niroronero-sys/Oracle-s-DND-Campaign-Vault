@@ -12,17 +12,19 @@ Cha | 19
 
 |==Equipment==
 "No Ordinary Book"
+Ancient Staff
 Obsidian dagger
 
 |==Inventory==
 Coin x192
+Eve of Knights Spectator pass Bracelet
+Night of Knights Spectator pass Bracelet
 Old map
 Elixir
-Shillings x200
+Shillings x180
 1 whole of paper x5
 Pen x2
 Flashlight
-Lucky charm
 "The Eleventh Hour" 1TA scroll
 Life ring(-)
 "Candy" 

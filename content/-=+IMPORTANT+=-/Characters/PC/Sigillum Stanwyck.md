@@ -16,6 +16,8 @@ Cha | 8
 
 ==|Inventory==
 Stable Conduit
+Eve of Knights Spectator pass Bracelet
+Night of Knights Spectator pass Bracelet
 
 
 ==|Skills==

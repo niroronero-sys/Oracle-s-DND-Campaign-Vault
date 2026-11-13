@@ -16,11 +16,13 @@ Mysterious Ancient Staff
 
 
 ==|Inventory==
-Coins x190
-Shilling x4
+Coins x189
+Shilling x84
+Candy from PeriHare 
 Books of old
 Ominous fragment
 Magnifying glass
+Lucky charm
 Brush
 Batthorn
 Mysterious Amulet

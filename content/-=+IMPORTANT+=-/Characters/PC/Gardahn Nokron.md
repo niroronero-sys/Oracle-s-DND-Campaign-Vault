@@ -19,8 +19,10 @@ BlackSteel Zweihander.
 
 |==Inventory==
 Coins x228
-Shillings x98
+Shillings x78
 Quarter of a Shilling 
+Eve of Knights Participant confirmation bracelet.
+Night of Knights Spectator pass Bracelet
 Hairbrush
 Toothbrush
 Shampoo
@@ -29,7 +31,8 @@ Hair perfume
 Epipen | for nut allergies
 Nail clippers
 Mouth wash
-Box of Candies (123x)
+Tycho's Revolvers
+Box of Candies (122x)
 
 
 |==Skills==

@@ -9,7 +9,7 @@ Str | 8
 Int | 12
 Wis | 18
 Wlp | 10
-Cha | 10
+Cha | 12
 
 
 |==Equipment==
@@ -20,8 +20,10 @@ Giant Wizard Hat
 
 
 |==Inventory==
-Coin x100
-Shilling x139
+Coin x55
+Shilling x109
+Eve of Knights Spectator pass Bracelet
+Night of Knights Spectator pass Bracelet
 Basic Grimoire
 Emergency Exorcism Scroll
 Tachyon Scroll x1
